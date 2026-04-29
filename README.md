@@ -233,14 +233,26 @@ It is designed as a **portfolio-grade, recruiter-friendly, interview-ready proje
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Paraselli Ramakrishna**
-Senior Software Engineer | Java | Spring Boot | Microservices | GenAI | RAG
+<div align="left">
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-linkedin
-* Email: [your-email@example.com](mailto:your-email@example.com)
+## Ram Paraselli
+
+
+<a href="https://www.linkedin.com/in/ram-paraselli" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Paraselli" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:ramjavadev18@gmail.com"><b>[ramjavadev18@gmail.com](mailto:ramjavadev18@gmail.com)</b></a>
+
+</div>
 
 ---
 
